@@ -7,7 +7,7 @@ The orignal animation gif:
 ![Example image](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/remember_me.gif)
 
 The implementation:
-![Example image](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/implemntation.gif)
+![Implentation](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/implementation.gif)
 
 
 ----------
