@@ -3,7 +3,11 @@ Animation exercise remember-me
 
 This is an implementation of an animation exercise for a remember me dialog box. The original inspiration was taken from a [medium.com article](https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e).
 
+The orignal animation gif:
 ![Example image](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/remember_me.gif)
+
+The implementation:
+![Example image](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/implemntation.gif)
 
 
 ----------
