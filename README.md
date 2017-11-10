@@ -1,9 +1,9 @@
 Animation exercise remember-me
 ===================
 
-This is an implementation of an animation exercise for a remember me dialog box. The original inspiration was taken from a  ([medium.com article](https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e).
+This is an implementation of an animation exercise for a remember me dialog box. The original inspiration was taken from a [medium.com article](https://medium.com/bridge-collection/improve-the-payment-experience-with-animations-3d1b0a9b810e).
 
-![alt text](https://raw.githubusercontent.com/lassehav-oamk/animation-remember-me/master/remember_me.gif)
+![Example image](https://raw.githubusercontent.com/lassehav/animation-remember-me/master/remember_me.gif)
 
 
 ----------
@@ -13,12 +13,6 @@ Main points
 -------------
 
 Main points in the implementation are the following:
-
-> **Note:**
-
-> - StackEdit is accessible offline after the application has been loaded for the first time.
-> - Your local documents are not shared between different browsers or computers.
-> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
 
 #### Perspective
 CSS definition controls the 3D rendering needed for a flip effect. The value itself defines how many pixels a 3D element is placed from the view.
