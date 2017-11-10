@@ -15,7 +15,8 @@ Main points
 Main points in the implementation are the following:
 
 #### Perspective
-CSS definition controls the 3D rendering needed for a flip effect. The value itself defines how many pixels a 3D element is placed from the view.
+The perspective CSS definition controls the 3D rendering needed for a flip effect. The value itself defines how many pixels a 3D element is placed from the view.
+
     perspective: 600px;
 
 Important to notice is that the perspective CSS definition needs to be used by the parent of the actual element doing the flip effect.
